@@ -9,7 +9,24 @@
 <p><img src="banner.gif" width="500">
 </p>
 # 💫 About Me:
-🔭 Building projects that turn ideas into reality<br>👯 Open to collaborating on innovative & open-source projects<br>🌱 Currently exploring AI, Cloud.<br>💬 Ask me about Python & Git/GitHub<br>🚀 Always learning, building, and improving<br>⚡ Fun fact: I enjoy solving problems more than avoiding them 😄
+💻 [Student / Software Engineer] passionate about building useful and creative things with code.
+Hey there! 👋
+
+I’m tushar, a first year software engineer student.
+I design and build whatever I can imagine.
+
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is Python, C. My favorite tools are Figma, VS.
+
+I’ve working on some basic projects as a first year student.
+
+Fun Facts:
+
+I have Victus laptop
+I don’t like coffee or tea
+MyHeroAcademia is my favorite anime
+Hobbies: sports, gym, building things
 
 
 ## 🌐 Socials:
