@@ -8,30 +8,6 @@
 </p>
 <p><img src="banner.gif" width="500">
 </p>
-
-
-🌐 <b>Connect</b>
-
-
-
-<a href="mailto:tusharnegi692@gmail.com">
-<img src="https://img.shields.io/badge/-Contact-0d6efd?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://twitter.com/ww1nter1uv">
-<img src="https://img.shields.io/badge/-Follow-111111?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="https://bsky.app/profile/ww1nter.bsky.social">
-<img src="https://img.shields.io/badge/Bsky-Follow-0285FF?style=for-the-badge">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 # 💫 About Me:
 🔭 Building projects that turn ideas into reality<br>👯 Open to collaborating on innovative & open-source projects<br>🌱 Currently exploring AI, Cloud.<br>💬 Ask me about Python & Git/GitHub<br>🚀 Always learning, building, and improving<br>⚡ Fun fact: I enjoy solving problems more than avoiding them 😄
 
